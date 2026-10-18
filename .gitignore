@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller / Build Artifacts
+build/
+dist/
+*.exe
+*.log
+
+# Sensitive Authentication & Session Files
+auth_session.json
+bot_error.log
+
+# Original Target & Extraction Dumps
+Anubicide.exe
+Anubicide.exe_extracted/
+*_disasm.txt

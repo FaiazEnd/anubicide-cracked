@@ -1,0 +1,22 @@
+{
+    "game_path": "C:/Users/pc/Desktop/Win64_7.0.260715.2 (1)/Poke Nexus.exe",
+    "mode": "grass_detection",
+    "break_interval": 30,
+    "break_duration": 10,
+    "enable_breaks": false,
+    "close_on_break": false,
+    "auto_decline_requests": false,
+    "restart_on_no_encounter": true,
+    "restart_no_encounter_minutes": 5,
+    "discord_user_id": "",
+    "discord_bot_token": "",
+    "notify_anubisius": false,
+    "pause_when_anubisius_online": false,
+    "auto_stop_minutes": 0,
+    "selected_monitor": "\\\\.\\DISPLAY1",
+    "catch_shinies": true,
+    "catch_pokemon": [],
+    "run_from_pokemon": [],
+    "pause_pokemon": [],
+    "pokemon_moves": {}
+}
